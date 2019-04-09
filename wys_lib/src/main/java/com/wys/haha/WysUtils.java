@@ -4,7 +4,7 @@ package com.wys.haha;
  * Created by yas on 2019/4/9
  * Describe:
  */
-public class StrUtils {
+public class WysUtils {
 
     // Used to load the 'native-lib' library on application startup.
     static {
